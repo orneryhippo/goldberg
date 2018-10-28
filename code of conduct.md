@@ -13,9 +13,10 @@ All of the current core developers of SQLite have pledged to follow this rule. T
 
 In the future, should someone wish to become a core developer of SQLite and is in every way qualified except that he or she does not feel comfortable with some details of this rule, then appropriate adjustments will be made at that point.
 
-2. The Rule
-First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
-Then, love your neighbor as yourself.
+## 2. The Rule
+
+### First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
+### Then, love your neighbor as yourself.
 Do not murder.
 Do not commit adultery.
 Do not steal.
