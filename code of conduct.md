@@ -1,17 +1,17 @@
 # Code Of Conduct
 1. Overview
-Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger SQLite user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
+Having been encouraged by clients to adopt a written code of conduct, the SQLite developers elected to govern their interactions with each other, with their clients, and with the larger user community in accordance with the "instruments of good works" from chapter 4 of The Rule of St. Benedict. This code of conduct has proven its mettle in thousands of diverse communities for over 1,500 years, and has served as a baseline for many civil law codes since the time of Charlemagne.
 
-1.1. Users of the SQLite Code
-This rule applies to SQLite developers, not to users of the SQLite code. Everyone is free to use the SQLite source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. SQLite has been and continues to be completely free to everyone, without precondition.
+1.1. Users of the Code
+This rule applies to developers, not to users of the code. Everyone is free to use the source code, object code, and/or documentation regardless of their opinion of and adherence to this rule. This has been and continues to be completely free to everyone, without precondition.
 
-1.2. Participation in the SQLite Mailing Lists
-Participates in the SQLite Mailing Lists or other public forums are not required to follow this rule. However, comments posted on mailing lists or forums are expected to be courteous and professional, and should be worded as if they were written by someone who is a follower of this rule. Speak only the truth in love, honor all, do not be angry or nurse a grudge, do not return evil for evil, be not proud or a grumbler or a detractor, avoid depraved speech, hate no one, do not love quarreling, and so forth. Violator brought to the attention of the project leader will be reproved, gently at first but with increasing urgency, and may ultimately be banned if the behavior is not amended.
+1.2. Participation in the Mailing Lists
+Participates in the Mailing Lists or other public forums are not required to follow this rule. However, comments posted on mailing lists or forums are expected to be courteous and professional, and should be worded as if they were written by someone who is a follower of this rule. Speak only the truth in love, honor all, do not be angry or nurse a grudge, do not return evil for evil, be not proud or a grumbler or a detractor, avoid depraved speech, hate no one, do not love quarreling, and so forth. Violator brought to the attention of the project leader will be reproved, gently at first but with increasing urgency, and may ultimately be banned if the behavior is not amended.
 
 1.3. Core Developers
-All of the current core developers of SQLite have pledged to follow this rule. The public is invited to call us out if we are seen in breach of the rule, especially with regards to our interaction with mailing list participates and/or general users of SQLite.
+All of the current core developers have pledged to follow this rule. The public is invited to call us out if we are seen in breach of the rule, especially with regards to our interaction with mailing list participates and/or general users.
 
-In the future, should someone wish to become a core developer of SQLite and is in every way qualified except that he or she does not feel comfortable with some details of this rule, then appropriate adjustments will be made at that point.
+In the future, should someone wish to become a core developer and is in every way qualified except that he or she does not feel comfortable with some details of this rule, then appropriate adjustments will be made at that point.
 
 ## 2. The Rule
 
