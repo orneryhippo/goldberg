@@ -15,9 +15,9 @@ In the future, should someone wish to become a core developer of SQLite and is i
 
 ## 2. The Rule
 
-### First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
-### Then, love your neighbor as yourself.
-Do not murder.
+1 First of all, love the Lord God with your whole heart, your whole soul, and your whole strength.
+1 Then, love your neighbor as yourself.
+1 Do not murder.
 Do not commit adultery.
 Do not steal.
 Do not covet.
